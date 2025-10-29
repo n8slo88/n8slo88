@@ -5,6 +5,10 @@ My full stack projects are set to private for security reasons.  You can check o
 
 This repo is a catch all of personal projects using different languages and frameworks.
 
+
+Desktop app using MySQL local database, for calculating semi truck loading dimensions and weight:
+[https://github.com/n8slo88/Truck-Loading-App/blob/main/dashboard.py]
+
 This is a project using MVC framework in javascript:
 
 repo: [https://github.com/n8slo88/inventoryproject/blob/master/views/pages/home.ejs]
